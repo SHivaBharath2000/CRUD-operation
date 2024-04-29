@@ -1,0 +1,54 @@
+.font{
+    color: #00CC99;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 68px;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.btn-success{
+    margin-right: 10px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 70px;
+}
+.card-1{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+
+}
+.label{
+    margin-top: 20px;
+    margin-top: 47px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+h3{
+    margin-bottom:39px
+}
+.inputs{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top:10px;
+}
+.input1{
+    width:40%;
+    margin-left:5%;
+}
+.input2{
+    width: 40%;
+    margin-left: 5%;
+    height: 41px;
+}
+.button-1{
+ background-color:#00CC99;
+ margin-left: 16px;
+ border-radius: 17px;
+ width: 10%;
+ color: white;
+}
